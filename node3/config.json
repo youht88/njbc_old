@@ -1,0 +1,8 @@
+{
+    "me": "10.0.2.203:4000",
+    "entryNode": "10.0.2.201:4000",
+    "db": "mongo:27017/node3",
+    "full": true,
+    "syncNode": true,
+    "debug": true
+}
